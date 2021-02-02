@@ -1,5 +1,5 @@
 # IS601-Project1
-Team Members: 
+**Team Members:** 
 - Abhay Patel
 - Kajal Patel
 
