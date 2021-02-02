@@ -4,17 +4,3 @@ Team Members:
 - Kajal Patel
 
 **Links to other files**
-
-# Git 
-
-
-# Docker
-
-
-# Automated Testing 
-
-
-# Repository
-
-
-# Branch
