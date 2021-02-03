@@ -15,11 +15,14 @@ Branching is a feature used to encapsulate any changes whether it is a new featu
 
 # Commit
 Git commit captures a current snapshot of the project's staged changes. This is probably one of the most used git commands. 
+
 ![](https://github.com/abhay-hisesci/IS601-Project1/blob/main/Project%201%20Images/Commit%20Image.PNG)
 
 # Merge 
 This feature allows the user to put forked or branched code back together. This is useful when working on a new feature and the developer wants to add it to the main code after testing. 
+
 ![](https://github.com/abhay-hisesci/IS601-Project1/blob/main/Project%201%20Images/Merge%20Image.PNG)
+
 # Checkout
 Chekout allows users to switch between different versions of a target entity. For example, git checkout allow the user to navigate between different branches.
 
