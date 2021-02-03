@@ -1,9 +1,8 @@
 # Clone
 Clone is a Git command line utility used create a copy of an existing repository. This increases collaboration and competitveness of a company because it allows developers to create their own copy of a repository and build on other developer's concepts/work without worrying about breaking the code since the original repositroy will not be affected. This leads to increased collaboration and faster development. 
 
-![Demonstration of Cloning](/Project20%120%Images/Cloning20%Image.png)
+![](https://github.com/abhay-hisesci/IS601-Project1/blob/main/Project%201%20Images/Cloning%20Image.PNG)
 
-![](https://github.com/abhay-hisesci/IS601-Project1/blob/main/Project%201%20Images/Branching%20Image.PNG?raw=true)
 
 
 # Fork
@@ -12,6 +11,7 @@ Fork gives every developer their own server-side repository instead of pushing a
 # Branch
 Branching is a feature used to encapsulate any changes whether it is a new feature or a bug fix. This makes it easier to maintain main code integrity and make sure no bugs are committed to it by accident. 
 
+![](https://github.com/abhay-hisesci/IS601-Project1/blob/main/Project%201%20Images/Branching%20Image.PNG?raw=true)
 
 # Commit
 Git commit captures a current snapshot of the project's staged changes. This is probably one of the most used git commands. 
