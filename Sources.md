@@ -1,4 +1,15 @@
 # Sources 
+## General
+* [Git](https://www.atlassian.com/git/tutorials/what-is-git)
+* [Docker](https://www.redhat.com/en/topics/containers/what-is-docker)
+* [Automated Testing](https://www.atlassian.com/continuous-delivery/software-testing/automated-testing)
+* [Continuous Integration](https://www.atlassian.com/continuous-delivery/continuous-integration)
+
+## GitFlow
+* [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+
+## Git Terminology
+* [Repository](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
 * [Clone](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone#:~:text=git%20clone%20is%20primarily%20used,copies%20an%20existing%20Git%20repository)
 * [Fork](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
 * [Branch](https://www.atlassian.com/git/tutorials/using-branches)
