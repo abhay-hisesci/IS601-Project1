@@ -11,3 +11,6 @@ Git is a version control system used in collaborative development environments t
 ## Docker
 Docker is a platform that allows for OS level virtualization without the overhead of virtual machines. Docker delivers software as a package in compact containers. These containers are isolated from one another and virtualized which allow for developers to test and speed up the development process as well as deliver finished products in a secure and compatible format.
 
+## Automated Testing
+Automated Testing is the use of a tool or software separate from the one being developed that performs tests and compares outputs of those tests with predetermined outputs to verify if the development of the program is consistent with desired results. This is all done automatically so it is useful for repetitive tests or something more complex that would be time consuming if done manually. Automated testing improves upon the efficiency of the software development cycle by reducing the amount of time it takes to deliver a finished product.
+
