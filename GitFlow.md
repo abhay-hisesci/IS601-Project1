@@ -16,4 +16,7 @@ The Feature branches are used primarily to work on a new addition to the code ba
 
 ![](https://wac-cdn.atlassian.com/dam/jcr:b5259cce-6245-49f2-b89b-9871f9ee3fa4/03%20(2).svg?cdnVersion=1438)
 
+## Release Branch
+The Release branch is used to fork from a Develop branch when there are enough features added to the Develop branch for a release. The Release branch is then merged to the Master branch along with a version number to track releases. This strategy allows for multiple development teams to work on different releases concurrently.
 
+![](https://wac-cdn.atlassian.com/dam/jcr:a9cea7b7-23c3-41a7-a4e0-affa053d9ea7/04%20(1).svg?cdnVersion=1438)
