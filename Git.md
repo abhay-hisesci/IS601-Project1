@@ -1,5 +1,6 @@
 # Clone
 Clone is a Git command line utility used create a copy of an existing repository. This increases collaboration and competitveness of a company because it allows developers to create their own copy of a repository and build on other developer's concepts/work without worrying about breaking the code since the original repositroy will not be affected. This leads to increased collaboration and faster development. 
+![](Project 1 Images/Cloning20%Image.png)
 
 
 # Fork
