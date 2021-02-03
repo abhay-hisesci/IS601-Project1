@@ -6,6 +6,7 @@
 **Links to other files**
 ## [Git Terminology](https://github.com/abhay-hisesci/IS601-Project1/blob/main/Git.md)
 ## [GitFlow](https://github.com/abhay-hisesci/IS601-Project1/blob/main/GitFlow.md)
+## [Sources](https://github.com/abhay-hisesci/IS601-Project1/blob/main/Sources.md)
 
 ## General Information
 ### Git
