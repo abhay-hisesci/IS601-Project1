@@ -3,6 +3,8 @@ Clone is a Git command line utility used create a copy of an existing repository
 
 ![Demonstration of Cloning](/Project20%120%Images/Cloning20%Image.png)
 
+![](https://github.com/abhay-hisesci/IS601-Project1/blob/main/Project%201%20Images/Branching%20Image.PNG?raw=true)
+
 
 # Fork
 Fork gives every developer their own server-side repository instead of pushing all of their work to a single central repository.  The biggest advantage of Forking Workflow is that individual developer contributions can be integrated without having everyone push to a central repository. This is important because then only the project maintainer can push to the offcial repository. Fork Workflow allows the maintainer to accept commits from other developers without giving them access to the central repository. This is useful when working on an open source project and makes managing projects easier. 
